@@ -41,6 +41,11 @@ import protopie from "./collaboration/protopie.png";
 import raindrop from "./collaboration/raindrop.png";
 import slack from "./collaboration/slack.png";
 
+import expertise from "./Icons/expertise.png";
+import innovation from "./Icons/innovation.png";
+import tailorMade from "./Icons/tailorMade.png";
+import edit from "./Icons/edit.png"
+import customer from "./Icons/customer.png";
 import service1 from "./services/service-1.png";
 import service2 from "./services/service-2.png";
 import service3 from "./services/service-3.png";
@@ -70,6 +75,8 @@ import starLink from "./starlink.jpeg";
 import design from "./design.jpg";
 import programmer from "./programmer.jpg";
 import cashier from "./cashier.jpg";
+import choose from "./choose.jpg";
+import hands from "./hands.jpg"
 
 import notification1 from "./notification/image-1.png";
 import notification2 from "./notification/image-2.png";
@@ -100,9 +107,16 @@ export {
   tigerwebLogo,
   tigerweb_logo,
   design,
+  expertise,
+  innovation,
+  tailorMade,
+  choose,
+  edit,
+  hands,
   programmer,cashier,
   collinsLogo,
   darkBackground,
+  customer,
   check,
   check2,
   loading1,

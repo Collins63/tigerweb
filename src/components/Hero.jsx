@@ -28,7 +28,7 @@ const Hero = () => {
                 Choose Us
                 <FiArrowRight className="transition-transform group-hover:-rotate-45 group-active:-rotate-12" />
             </button>
-            <div className='relative mt-30'>
+            <div className='hidden sm:block relative top-[20vh]'>
                 <div className='flex gap-1 max-lg:flex-wrap'>
                     <div className='w-1/4 rounded-4xl h-35 backdrop-blur-2xl border border-gray-400'>
                         <div className=' flex flex-col items-center'>
