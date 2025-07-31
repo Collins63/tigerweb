@@ -11,7 +11,7 @@ const Header = () => {
                         <a 
                             href={item.url}
                             key={item.id}
-                            className={`block drop-shadow-[2px_2px_4px_rgba(0,0,0,0.6)] relative text-6xl font-medium text-white  uppercase transition-colors hover:text-blue-400 px-6 py-6 md:py-8 lg:mr-2 lg:text-xs lg:font-semibold`}
+                            className={`block drop-shadow-[2px_2px_4px_rgba(0,0,0,0.1)] relative text-6xl font-medium text-white  uppercase transition-colors hover:text-blue-400 px-6 py-6 md:py-8 lg:mr-2 lg:text-xs lg:font-semibold`}
                         >
                             {item.title}
                         </a>
